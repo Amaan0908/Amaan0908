@@ -25,7 +25,7 @@ Hi 👋, I'm Mohammad Amaan
 ![](https://github-profile-trophy.vercel.app/?username=Amaan0908&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-amaan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-amaan090) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ak8303929039@gmail.com)
 
 <!-- Snake Game Repo View -->
