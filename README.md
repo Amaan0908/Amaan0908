@@ -15,7 +15,7 @@ Hi 👋, I'm Mohammad Amaan
 
 💬 Ask me about: Full Stack Web Development, Cloud/DevOps tools, or tech collaborations.
 
-📫 Reach me at: ak8303929039@gmail.com 
+📫 Reach me at: amaan.tech07@gmail.com
 
 😄 Pronouns: Amaan(Ak)
 
